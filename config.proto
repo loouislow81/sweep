@@ -1,0 +1,9 @@
+HOME="/home/loouis/"
+
+watch_dir1="$HOME/Downloads/"
+watch_dir2="$HOME/Desktop/"
+
+move_to_image_dir="$HOME/Downloads/resources/images/"
+move_to_video_dir="$HOME/Videos/Movies/"
+move_to_archive_dir="$HOME/Downloads/resources/archives/"
+
