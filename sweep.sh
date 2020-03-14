@@ -46,8 +46,8 @@ function file_organizer() {
 # "EXT1, EXT2, ..." "TARGET_DIR1, TARGET_DIR2, ..." "MOVE_TO_DIR"
 #
 
-file_organizer "jpg JPG png PNG" "$watch_dir1 $watch_dir2" "$move_to_image_dir"
-file_organizer "mp4 mkv" "$watch_dir1 $watch_dir2" "$move_to_video_dir"
+file_organizer "jpg JPG jpeg JPEG webp WEBP png PNG" "$watch_dir1 $watch_dir2" "$move_to_image_dir"
+file_organizer "mp4 mpeg mpg avi mkv" "$watch_dir1 $watch_dir2" "$move_to_video_dir"
 file_organizer "zip tar.gz" "$watch_dir1 $watch_dir2" "$move_to_archive_dir"
 
 
