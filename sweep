@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
-# @file: asset-sweeper.sh
-# @description: move files with specific extension to another new directory
+# @file: sweeper
+# @description: move files with specific extension to new directory
 # @version: 1.0.0
 # @author: Loouis Low (loouis@gmail.com)
 # @license:
